@@ -1,0 +1,12 @@
+{
+  "name": "backend_engineer",
+  "version": "1.0.0",
+  "description": "backend_engineer",
+  "main": "backendEngineer.js",
+  "scripts": {
+    "dev": "node backendEngineer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aminuddin",
+  "license": "ISC"
+}

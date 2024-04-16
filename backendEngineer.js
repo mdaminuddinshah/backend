@@ -1,3 +1,4 @@
-const random = Math.floor(Math.random() * 16);
+const random = Math.floor(Math.random() * 10);
+
 
 console.log(random)
